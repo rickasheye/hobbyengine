@@ -8,3 +8,4 @@ myhobbyengine repository
 4. open a terminal inside "openglengine" and type "make" this should create a .exe file on windows (as it is only windows in the makefile)
 
 i would really enjoy a pull request here and there as i am constantly improving on this engine i want other people to put there touches to it.
+decently enough it should run on linux with a few makefile changes thats it since the code doesnt use any windows code.
